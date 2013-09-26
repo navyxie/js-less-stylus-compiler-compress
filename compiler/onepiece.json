@@ -1,0 +1,17 @@
+[
+    {
+      "path" : "F:/kalengo/onepiece/public",
+      "ext" : ".less",
+      "delay" : 500
+    },
+    {
+      "path" : "F:/kalengo/onepiece/public",
+      "ext" : ".coffee",
+      "delay" : 500
+    },
+    {
+      "path" : "F:/kalengo/onepiece/public",
+      "ext" : ".js",
+      "delay" : 1000
+    }
+]

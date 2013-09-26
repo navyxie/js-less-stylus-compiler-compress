@@ -1,0 +1,17 @@
+[
+    {
+      "path" : "F:/kalengo/baas/static",
+      "ext" : ".less",
+      "delay" : 500
+    },
+    {
+      "path" : "F:/kalengo/baas/static",
+      "ext" : ".coffee",
+      "delay" : 500
+    },
+    {
+      "path" : "F:/kalengo/baas/static",
+      "ext" : ".js",
+      "delay" : 1000
+    }
+]

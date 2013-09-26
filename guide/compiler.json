@@ -1,0 +1,9 @@
+{
+	"filePath" : "C:/Server/Apache2/htdocs/guide/",
+	"baseUrl" : "http://192.168.100.23/guide/front.php",
+	"seller_nick" : "一些事一些情2007",
+	"values" : {
+		"t" : [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13],
+		"module_width" : [750, 950]
+	}
+}

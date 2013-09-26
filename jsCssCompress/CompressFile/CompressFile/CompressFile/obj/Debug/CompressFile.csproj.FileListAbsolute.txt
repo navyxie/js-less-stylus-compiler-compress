@@ -1,0 +1,10 @@
+F:\Workspaces\CompressFile\CompressFile\CompressFile\obj\Debug\ResolveAssemblyReference.cache
+F:\Workspaces\CompressFile\CompressFile\CompressFile\obj\Debug\CompressFile.Form1.resources
+F:\Workspaces\CompressFile\CompressFile\CompressFile\obj\Debug\CompressFile.Properties.Resources.resources
+F:\Workspaces\CompressFile\CompressFile\CompressFile\obj\Debug\CompressFile.csproj.GenerateResource.Cache
+F:\Workspaces\CompressFile\CompressFile\CompressFile\bin\Debug\CompressFile.exe
+F:\Workspaces\CompressFile\CompressFile\CompressFile\bin\Debug\CompressFile.pdb
+F:\Workspaces\CompressFile\CompressFile\CompressFile\obj\Debug\CompressFile.exe
+F:\Workspaces\CompressFile\CompressFile\CompressFile\obj\Debug\CompressFile.pdb
+D:\workSpace\CompressFile\CompressFile\CompressFile\obj\Debug\CompressFile.exe
+D:\workSpace\CompressFile\CompressFile\CompressFile\obj\Debug\CompressFile.pdb

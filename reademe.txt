@@ -1,0 +1,12 @@
+首先把tools所在目录添加到环境变量中，接着需要安装使用的node.js插件有：
+async coffee-script less request uglify-js
+使用以下命令安装（在cmd下先进入tools下面node_modules目录）
+npm install async coffee-script less request uglify-js
+
+
+目录说明：
+backup----备份数据库的一些脚本。
+compiler----编译less,coffee-scrip，压缩js的工具，和以前的用法一样。
+guide----用于全部导购前台js,css合并压缩的工具。
+jsCssCompress----导购旧的前台js,css合并压缩工具（不再使用）。
+node_modules ----node.js的module目录
